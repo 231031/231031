@@ -1,5 +1,5 @@
 # About me:
-My name is Kanlaypaht. I'm currently a computer engineering student at KMUTT. I'm interested in Software Development and Machine Learning.
+My name is Kanlayaphat. I'm currently a computer engineering student at KMUTT. I'm interested in Software Development and Machine Learning.
 
 ## Competitions
 - 3rd prize Sirisoft X KMUTT Hackathon 2023
